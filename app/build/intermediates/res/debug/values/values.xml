@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/用户目录/Documents/GitHub/MediaPlayer/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">PA4AD_Ch15_Media_Player</string>
+    <string name="hello">Hello World, PlayerActivity!</string>
+</resources>
